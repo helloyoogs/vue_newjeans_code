@@ -73,5 +73,6 @@ mounted() {
     top: 35px !important;
      left: 20px !important;
 }
+
 }
 </style>

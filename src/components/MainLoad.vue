@@ -89,4 +89,13 @@ methods: {
 .face-id-anim>img{
     width: 100%;
 }
+@media screen and (max-width: 500px) {
+.content-bg{
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: auto;
+}
+}
 </style>
