@@ -1319,11 +1319,9 @@ this.클럽종류넘버 = 0;
 @media screen and (max-width: 500px) {
 
 .content-bg{
-  top: 0;
-  left: 0;
-  top: 0;
-  left: 0;
-  width: 100%;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
 }
 .step-list{
   width: 90%;
@@ -1435,4 +1433,5 @@ body{
  width: 100%;
 }
 }
+
 </style>

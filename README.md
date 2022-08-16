@@ -1,4 +1,4 @@
-# http://hyport1.cafe24.com/#/newjeans
+# newjeans
 
 ## Project setup
 ```
